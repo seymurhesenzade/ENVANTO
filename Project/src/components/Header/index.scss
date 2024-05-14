@@ -1,0 +1,72 @@
+#headerId {
+    background-color: rgb(229, 114, 0);
+    color: aliceblue;
+    padding: 1rem;
+}
+
+#selectId {
+    
+    outline: none;
+    color: white;
+    background-color: rgb(229, 114, 0);
+    border: none;
+    padding: 10px;
+}
+
+#selectLg {
+    outline: none;
+    padding: 10px;
+    color: white;
+    background-color: rgb(229, 114, 0);
+    border: none;
+
+}
+
+option {
+    background-color: white;
+    color: black;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.divh1 {
+    display: flex;
+
+    h1 {
+        margin-top: 50px;
+        font-size: 50px;
+    }
+}
+nav{
+    display: flex;
+}
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#homeId{
+    outline: none;
+    border: none;
+    font-size: 20px;
+        color: rgb(229, 114, 0);
+    
+}
+#pageId{
+    outline: none;
+    border: none;
+    font-size: 20px;
+}
+#shopId{
+    outline: none;
+    border: none;
+    font-size: 20px;
+}
+.social{
+    gap: 1.5rem;
+   
+}
